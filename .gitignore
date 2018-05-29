@@ -1,5 +1,7 @@
 flask_env/
 
+*.swp
+
 *.pyc
 __pycache__/
 
